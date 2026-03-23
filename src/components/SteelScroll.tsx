@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 import Image from "next/image";
 
 export default function SteelScroll() {
-  const images = ["/tmtbar2.png", "/2.png"];
+  const images = ["/tmtbar3.png", "/tmtbar2.png"];
 
   const certificates = [
     { src: "/bis.png", alt: "BIS Certificate" },
